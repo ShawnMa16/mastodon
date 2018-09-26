@@ -1,0 +1,26 @@
+{
+  "name": "shawn_bot",
+  "version": "0.0.1",
+  "description": "This is a mastodon bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShawnMa16/mastodon.git"
+  },
+  "keywords": [
+    "mastodon",
+    "bot"
+  ],
+  "author": "Shawn Ma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ShawnMa16/mastodon/issues"
+  },
+  "homepage": "https://github.com/ShawnMa16/mastodon#readme",
+  "dependencies": {
+    "mastodon-api": "^1.3.0"
+  }
+}
